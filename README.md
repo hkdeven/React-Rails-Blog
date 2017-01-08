@@ -1,8 +1,6 @@
-# React on Rails Basic Tutorial
+# React with Rails Setup Tutorial
 
 This walkthrough will help you setup your own, new Rails app with **React on Rails**, demonstrating Rails + React + Redux + Server Rendering.
-
-![example](https://cloud.githubusercontent.com/assets/371302/17368567/111cc722-596b-11e6-9b72-ac5967a60e42.gif)
 
 By the time you read this, the latest may have changed. Be sure to check the versions here:
 
